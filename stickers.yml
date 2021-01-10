@@ -24282,3 +24282,12 @@ a55f56b74731a4f8fd31ddb69a716689:
   nsfw: false
   original: false
   animated: false
+bf1951e8645a9275c2878fb7cb3a62dd:
+  key: abd6dfab5ab7ee6b886ceb8425c9d213db870b51066ea110b58aaf5f2606ce9b
+  source: BK
+  tags:
+    - Memoji
+    - Love
+  nsfw: false
+  original: true
+  animated: false
